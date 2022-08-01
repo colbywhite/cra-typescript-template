@@ -7,5 +7,6 @@ It contains the following:
 - Sane yarn scripts
 - `material-ui` components
 - CSS Reset via `CssBaseline`
+- `tailwindcss`
 
 [Colby M. White]: https://github.com/colbywhite/
