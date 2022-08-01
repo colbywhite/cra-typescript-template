@@ -1,25 +1,23 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Container from '@mui/material/Container';
+import Typography from '@mui/material/Typography';
+import Link from '@mui/material/Link';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
+    <Container maxWidth="sm" className="App" component="main">
+        <img src={logo} className="App-logo" alt="logo"/>
+        <Typography variant="body1">
           Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        </Typography>
+        <Link href="https://reactjs.org"
+              target="_blank"
+              rel="noopener noreferrer">
           Learn React
-        </a>
-      </header>
-    </div>
+        </Link>
+    </Container>
   );
 }
 

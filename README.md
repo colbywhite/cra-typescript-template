@@ -5,6 +5,7 @@ This is my preferred starting template for a create-react-app project with what 
 It contains the following:
 - Basic Hello, World page
 - Sane yarn scripts
-- `normalize.css`
+- `material-ui` components
+- CSS Reset via `CssBaseline`
 
 [Colby M. White]: https://github.com/colbywhite/
