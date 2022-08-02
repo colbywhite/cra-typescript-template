@@ -6,6 +6,7 @@ It contains the following:
 - Basic "Hello, World" page
 - Sane yarn scripts
 - `material-ui` components
+- A two-color theme
 - CSS Reset via `CssBaseline`
 - `tailwindcss`
 
