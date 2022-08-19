@@ -1,4 +1,4 @@
-# cra-typescript-template by [Colby M. White]
+# cra-typescript-template by [Colby M. White] test
 
 This is my preferred starting template for a create-react-app project with what I consider a sane set of starting settings.
 
